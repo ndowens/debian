@@ -1,0 +1,17 @@
+Package: artools
+Version: 0.26.1-1
+Architecture: amd64
+Maintainer: Nathan Owens <ndowens@artixlinux.org>
+Installed-Size: 331
+Depends: arch-pacman
+Homepage: https://gitea.artixlinux.org/artix/artools
+Priority: medium
+Section: misc
+Filename: pool/main/a/artools/artools_0.26.1-1_amd64.deb
+Size: 44362
+SHA256: f19271cfae8f9ee38d67b680620778d1afccb926f79d09c2f65cfea006ecfe9e
+SHA1: 4ce2aa05f1503752e5af16125fb93cc90dcb757b
+MD5sum: 44c640450f17a1a160fb9e862763b039
+Description: Artix linux packaging
+ Tools used for Artix linux packaging
+
